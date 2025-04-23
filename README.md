@@ -1,5 +1,4 @@
 ## :space_invader: &nbsp;Hey there! I'm Kryz
-<br> <p align="right"> <img src="https://komarev.com/ghpvc/?username=LegionUPS&label=Profile%20views&color=0e75b6&style=flat" alt="LegionUPS" /> </p> <br>
 
 ### About me :computer:
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
@@ -16,10 +15,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,python,matlab,c,bash,md,vscode,visualstudio,anaconda,docker,linux,kali,arduino,blender,unity&perline=6)](https://skillicons.dev)
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics ⚙️ 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/LegionUPS">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LegionUPS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
@@ -32,5 +31,6 @@
 <a href="mailto:krizrobert15@gmail.com"><img src="https://img.shields.io/badge/-krizrobert15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/kryzrcg"><img src="https://img.shields.io/badge/-@kryzrcg-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+<br> <p align="right"> <img src="https://komarev.com/ghpvc/?username=LegionUPS&label=Profile%20views&color=0e75b6&style=flat" alt="LegionUPS" /> </p> <br>
 
 -----
