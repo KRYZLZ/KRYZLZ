@@ -29,7 +29,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ccollaguazog/"><img src="https://img.shields.io/badge/-Cristopher%20Collaguazo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:krizrobert15@gmail.com"><img src="https://img.shields.io/badge/-krizrobert15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/kryzrcg"><img src="https://img.shields.io/badge/-@kryzrcg-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 <br> <p align="right"> <img src="https://komarev.com/ghpvc/?username=LegionUPS&label=Profile%20views&color=0e75b6&style=flat" alt="LegionUPS" /> </p> <br>
 
