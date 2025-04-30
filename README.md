@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Biomedicine.\
 ✍️ &nbsp;In my free time, I engage in research in areas such as biomedicine and neuroscience, with a focus on their applications in artificial.\
 💬 &nbsp;Don't hesitate to contact me with any questions or if you have a problem, I can provide a solution.\
-✉️ &nbsp;You can shoot me an email at krizrobert15@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at krizrobert15@gmail.com, and I will try to respond as soon as possible.\
 📄 &nbsp;Please have a look at my [Linkedin]([https://www.linkedin.com/in/ccollaguazog/]) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
