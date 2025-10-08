@@ -1,5 +1,7 @@
 ## :space_invader: &nbsp;Hey there! I'm Kryz
 
+🎓 Ingeniero en Mecatrónica | 💡 IA & Automatización | ⚙️ Full Stack Developer
+
 ### About me :computer:
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm a Mechatronics Engineer from the Salesian Polytechnic University.\
