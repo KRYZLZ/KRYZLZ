@@ -26,7 +26,7 @@
 
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,python,matlab,c,cpp,cs,bash,md,vscode,visualstudio,anaconda,docker,linux,kali,arduino,blender,unity,postgresql,mongodb,tensorflow,react,javascript,typescript,nodejs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,python,matlab,c,cpp,cs,bash,md,vscode,visualstudio,anaconda,docker,linux,kali,arduino,blender,unity,postgresql,mongodb,tensorflow,react,javascript,typescript,nodejs&perline=9)](https://skillicons.dev)
 
 
 ### ⚙️&nbsp;GitHub Analytics 
