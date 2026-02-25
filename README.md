@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ccollaguazog/"><img src="https://img.shields.io/badge/-Cristopher%20Collaguazo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:krizrobert15@gmail.com"><img src="https://img.shields.io/badge/-krizrobert15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:krizrobert15@gmail.com"><img src="https://img.shields.io/badge/-contacto@ohmroyal.org-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
